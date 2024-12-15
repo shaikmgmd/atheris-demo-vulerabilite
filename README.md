@@ -1,2 +1,2 @@
 # atheris-demo-vulerabilite
-Code présenté lors du cours sur Fuzzers for python en Analyse de vulérabilités
+Code d'intro à atheris présenté lors d'un cours sur les Fuzzers en python
